@@ -1,0 +1,26 @@
+{
+    "meta" : {
+        "info" : "Weather of Tanzania regions ",
+        "date" : "23/02/2023"
+    },
+    "data" : {
+        "Moshi" : [
+
+            {
+                "date" : "23/02/2023",
+                "temp" : "25",
+                "rain" : "0"
+            },
+            {
+                "date" : "22/02/2023",
+                "temp" : "27",
+                "rain" : "0"
+            },
+            {
+                "date" : "21/02/2023",
+                "temp" : "21",
+                "rain" : "2"
+            }
+        ]
+    }
+}
